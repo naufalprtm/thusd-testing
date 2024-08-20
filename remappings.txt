@@ -1,0 +1,10 @@
+@openzeppelin/=src/@openzeppelin/
+@thesis/=src/Collateral/@thesis/
+@openzeppelin-ActivePool/=src/ActivePool/@openzeppelin/
+@openzeppelin-Defaultpool/=src/Defaultpool/@openzeppelin/
+@openzeppelin-Collateral/=src/Collateral/@openzeppelin/
+@openzeppelin-TroveManager/=src/TroveManager/@openzeppelin/
+@openzeppelin-BorrowerOperations/=src/BorrowerOperations/@openzeppelin/
+@openzeppelin-THUSDToken/=src/THUSDToken/@openzeppelin/
+@openzeppelin-SortedTroves/=src/SortedTroves/@openzeppelin/
+@openzeppelin-PCV/=src/PCV/@openzeppelin/
